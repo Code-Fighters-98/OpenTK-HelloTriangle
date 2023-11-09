@@ -114,7 +114,7 @@ namespace OpenToolKit
             GL.Clear(ClearBufferMask.ColorBufferBit);
 
             shader!.UseShaders();
-            GL.UseProgram(0);
+            GL.UseProgram(1); 
             GL.BindVertexArray(VertexArrayObject);
             GL.DrawArrays(PrimitiveType.Triangles, 0, 3);
 

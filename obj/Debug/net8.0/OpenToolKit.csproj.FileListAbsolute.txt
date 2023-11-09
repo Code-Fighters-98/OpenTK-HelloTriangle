@@ -29,3 +29,4 @@ C:\Users\Lenovo\Desktop\OpenToolKit\obj\Debug\net8.0\refint\OpenToolKit.dll
 C:\Users\Lenovo\Desktop\OpenToolKit\obj\Debug\net8.0\OpenToolKit.pdb
 C:\Users\Lenovo\Desktop\OpenToolKit\obj\Debug\net8.0\OpenToolKit.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\OpenToolKit\obj\Debug\net8.0\ref\OpenToolKit.dll
+C:\Users\Lenovo\Desktop\OpenToolKit\obj\Debug\net8.0\OpenToolKit.sourcelink.json

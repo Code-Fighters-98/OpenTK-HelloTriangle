@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenToolKit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5435e6c60b4a257ebc7523208dc1902bf2fc886")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenToolKit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenToolKit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
